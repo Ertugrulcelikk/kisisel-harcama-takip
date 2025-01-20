@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# harcama_takip
+
+# harcama_takip uygulaması
 =======
-# harcama_takip
+# harcama_takip uygulaması genel bilgiler
+projemiz e-posta ile giriş yapılan aylık bütçe takibi ve harcamaların hangi alanlarda yapıldığını gösteren bir uygulama
+ÖNEMLİ!!! uygulama kodlarını yazdıktan sonra android studio emülatöründe çalıştıramadık pclerimizin yetersiz kaldığını düşündük ve arkadaşımızın bilgisayarından emülatörde çalıştı 
+ancak vscode den githuba pushlarken arkadaşımızın github hesabı görünüyor düzetlmeye çalıştık ama hata aldık bunun bilgilendirmesini yapmak istedim 
+anlayışınız için teşekkür ederim ...
 
-A new Flutter project.
 
-## Getting Started
+## EKİP ÜYELERİ
+ERTUĞRUL ÇELİK 132130025
+EYYUB TALHA ÖZKURT 132230025
+SEMİH ARSLANTAŞ 132230001
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+PROJEMİZİN YOOTUBE LİNKİ:    https://youtu.be/E0vGLiYIRRo 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 2378602 (First Commit)
